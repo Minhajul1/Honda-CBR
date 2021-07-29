@@ -1,0 +1,25 @@
+/* header part */
+header{
+    background-color: #264653;
+    width: 100%;
+    height: 745px;
+    padding-top: 130px;
+}
+.btn{
+    background-color: #E76F51;
+    width: 150px;
+}
+
+/* main part */
+.color-item .color{
+    filter: grayscale(100%);
+}
+.fas{
+    color: #E77C40;
+}
+.far{
+    color: #E77C40;
+}
+.slider .row{
+    background-color: antiquewhite !important;
+}
